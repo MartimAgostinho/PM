@@ -1,0 +1,3 @@
+Talvez criar uma pasta para o programa
+    isto involve ver se a pasta existe e se nao cria-la
+        try function no C??
